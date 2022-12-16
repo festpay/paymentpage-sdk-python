@@ -6,7 +6,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='festpay-sdk',
-    version='1.0.3',
+    version='1.0.1',
     url='https://github.com/festpay/paymentpage-sdk-python',
     license='MIT',
     long_description=README,
