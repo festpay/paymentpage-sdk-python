@@ -15,7 +15,7 @@ Please note that for correct SDK operating you must have at least Python 3.5.
 
 Install with pip
 ```bash
-pip install itechpsp-sdk
+pip install festpay-sdk
 ```
 
 ### Get URL for payment
