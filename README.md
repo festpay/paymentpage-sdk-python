@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/festpay/paymentpage-sdk-python.svg?branch=main)](https://travis-ci.com/festpay/paymentpage-sdk-python)
 
-# ITechPSP payment page SDK
+# Payment page SDK
 
 This is a set of libraries in the Python language to ease integration of your service
 with the Payment Page.
