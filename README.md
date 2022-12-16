@@ -34,7 +34,7 @@ payment_url = gate.get_purchase_payment_page_url(payment)
 
 `payment_url` here is the signed URL.
 
-### Handle callback from ITechPSP
+### Handle callback from FestPay
 
 You'll need to autoload this code in order to handle notifications:
 
