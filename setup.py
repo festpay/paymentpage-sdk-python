@@ -8,6 +8,7 @@ setup(
     name='festpay-sdk',
     version='1.0.1',
     url='https://github.com/festpay/paymentpage-sdk-python',
+    author_email='sdk@festpay.ru'
     license='MIT',
     long_description=README,
     long_description_content_type="text/markdown",
