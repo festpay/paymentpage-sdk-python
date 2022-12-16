@@ -5,9 +5,9 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name='itechpsp-sdk',
+    name='festpay-sdk',
     version='1.0.3',
-    url='https://github.com/ITechPSP/paymentpage-sdk-python',
+    url='https://github.com/festpay/paymentpage-sdk-python',
     license='MIT',
     long_description=README,
     long_description_content_type="text/markdown",
